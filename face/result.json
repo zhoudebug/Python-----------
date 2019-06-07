@@ -1,0 +1,13 @@
+{
+	'error_code': 0,
+	'error_msg': 'SUCCESS', 
+	'log_id': 305486871332877141, 
+	'timestamp': 1557133287, 
+	'cached': 0, 
+	'result': {
+				'group_id_list': ['test', 
+								'09141502', 
+								'09141501', 
+								'1234']
+				}
+}
